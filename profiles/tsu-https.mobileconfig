@@ -33,9 +33,9 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>Adds the AliDNS to Big Sur and iOS 14 based systems</string>
+	<string>Adds the TSU to Big Sur and iOS 14 based systems</string>
 	<key>PayloadDisplayName</key>
-	<string>AliDNS over HTTPS</string>
+	<string>TsuDNS over HTTPS</string>
 	<key>PayloadIdentifier</key>
 	<string>com.paulmillr.apple-dns</string>
 	<key>PayloadRemovalDisallowed</key>
@@ -43,7 +43,7 @@
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>A4475135-633A-4F15-A79B-BE15093DC97A</string>
+	<string>065cb0bf-2d1d-4e09-8bae-26d8c94128de</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
