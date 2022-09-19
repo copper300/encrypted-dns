@@ -17,15 +17,15 @@
 				<string>https://101.6.6.6:8443/dns-query</string>
 			</dict>
 			<key>PayloadDescription</key>
-			<string>Configures device to use AliDNS Encrypted DNS over TLS</string>
+			<string>Configures device to use TSU Encrypted DNS over TLS</string>
 			<key>PayloadDisplayName</key>
-			<string>AliDNS DNS over HTTPS</string>
+			<string>TSU DNS over HTTPS</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.dnsSettings.managed.9d6e5fdf-e404-4f34-ae94-27ed2f636ac4</string>
+			<string>com.apple.dnsSettings.managed.065cb0bf-2d1d-4e09-8bae-26d8c94128de</string>
 			<key>PayloadType</key>
 			<string>com.apple.dnsSettings.managed</string>
 			<key>PayloadUUID</key>
-			<string>35d5c8a0-afa6-4b36-a9fe-099a997b44ad</string>
+			<string>065cb0bf-2d1d-4e09-8bae-26d8c94128de</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>ProhibitDisablement</key>
