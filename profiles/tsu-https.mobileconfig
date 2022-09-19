@@ -37,7 +37,7 @@
 	<key>PayloadDisplayName</key>
 	<string>TsuDNS over HTTPS</string>
 	<key>PayloadIdentifier</key>
-	<string>com.paulmillr.apple-dns</string>
+	<string>com.diy.dns.diyTsuDoH</string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadType</key>
